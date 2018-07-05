@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Square Technologies 
 
 You can use the [editor on GitHub](https://github.com/SquareTechnologies/Odoo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
